@@ -42,6 +42,10 @@
 
 [tcping下载地址](https://github.com/HXHGTS/Port-Scanner/blob/master/tcping.exe?raw=true)
 
+若无法下载，请在hosts文件中加入一行：
+
+151.101.76.133 raw.githubusercontent.com
+
 ## 搬运项目（避免原项目失联）
 
 ### QQ加密音乐在线解锁
