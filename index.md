@@ -38,6 +38,10 @@
 
 [项目地址（使用说明）](https://github.com/HXHGTS/Port-Scanner)
 
+[下载地址](https://github.com/HXHGTS/Port-Scanner/blob/master/%E7%AB%AF%E5%8F%A3%E6%89%AB%E6%8F%8F%E5%B7%A5%E5%85%B7.exe?raw=true)
+
+[tcping下载地址](https://github.com/HXHGTS/Port-Scanner/blob/master/tcping.exe?raw=true)
+
 ## 搬运项目（避免原项目失联）
 
 ### QQ加密音乐在线解锁
