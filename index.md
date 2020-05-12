@@ -52,9 +52,7 @@
 
 ![Image](/icon/qqm.ico)
 
-[在线解密工具（github）](https://hxhgts.github.io/QQMusicUnblocker)
-
-[在线解密工具（gitee）](https://hxhgts.gitee.io/qqmusicunblocker)
+[在线解密工具](https://hxhgts.gitee.io/qqmusicunblocker)
 
 ### 基于html5技术的物理小实验
 
