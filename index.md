@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢喜和哥特的个人主页
 
 You can use the [editor on GitHub](https://github.com/HXHGTS/hxhgts.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
