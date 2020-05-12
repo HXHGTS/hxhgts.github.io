@@ -34,6 +34,10 @@
 
 [AdGuardHome Windows32位下载地址](https://lanzous.com/iccenne)
 
+### tcp端口扫描
+
+[项目地址（使用说明）](https://github.com/HXHGTS/Port-Scanner)
+
 ## 搬运项目（避免原项目失联）
 
 ### QQ加密音乐在线解锁
