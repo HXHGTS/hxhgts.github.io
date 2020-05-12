@@ -12,6 +12,8 @@
 
 ### OpenVPN配置生成工具
 
+![Image](/icon/openvpn.ico)
+
 [项目地址](https://github.com/HXHGTS/OpenVPN-Config-Generator)
 
 ### 标准下载器
@@ -35,6 +37,8 @@
 ## 搬运项目（避免原项目失联）
 
 ### QQ加密音乐在线解锁
+
+![Image](/icon/qqm.ico)
 
 [在线解密工具（github）](https://hxhgts.github.io/QQMusicUnblocker)
 
