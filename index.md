@@ -30,4 +30,4 @@
 
 ### QQ加密音乐在线解锁
 
-[在线解密工具](https://github.com/HXHGTS/QQMusicUnblocker)
+[在线解密工具](https://hxhgts.github.io/QQMusicUnblocker/)
