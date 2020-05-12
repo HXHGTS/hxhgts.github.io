@@ -6,6 +6,8 @@
 
 ### OpenVPN服务器搭建教程
 
+![Image](/icon/openvpn.ico)
+
 [项目地址](https://github.com/HXHGTS/OpenVPN-Server-Create)
 
 ### OpenVPN配置生成工具
