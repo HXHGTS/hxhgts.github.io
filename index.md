@@ -1,6 +1,6 @@
 # 欢喜和哥特的个人主页
 
-欢迎访问欢喜和哥特的个人主页
+一个闲来无事搞搞代码的孩子。。。
 
 ## 个人项目
 
@@ -37,3 +37,9 @@
 [在线解密工具（github）](https://hxhgts.github.io/QQMusicUnblocker)
 
 [在线解密工具（gitee）](https://hxhgts.gitee.io/qqmusicunblocker)
+
+搬运内容如果出现任何侵权问题请联系我
+
+邮箱：HXHGTS@outlook.com
+
+手机：+15854849689
