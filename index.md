@@ -6,20 +6,28 @@
 
 ### OpenVPN服务器搭建教程
 
-[项目地址](https://github.com/HXHGTS/OpenVPN-Server-Create) and ![Image](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2505709787,1200120548&fm=26&gp=0.jpg)
+[项目地址](https://github.com/HXHGTS/OpenVPN-Server-Create)
 
 ### OpenVPN配置生成工具
 
+[项目地址](https://github.com/HXHGTS/OpenVPN-Config-Generator)
+
 ### 标准下载器
+
+[项目地址](https://github.com/HXHGTS/FreeDownloader)
 
 ### DNS防污染
 
+[项目地址（使用说明）](https://github.com/HXHGTS/DNSForMe)
+
+[Windows64位下载地址](https://lanzous.com/iccepxg)
+
+[AdGuardHome Windows64位下载地址](https://lanzous.com/iccen4f)
+
+[Windows32位下载地址](https://lanzous.com/iccepra)
+
+[AdGuardHome Windows32位下载地址](https://lanzous.com/iccenne)
+
 ### QQ加密音乐在线解锁
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-[Link](url) and ![Image](src)
+[在线解密工具](https://github.com/HXHGTS/QQMusicUnblocker)
