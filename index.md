@@ -56,6 +56,14 @@
 
 [在线解密工具（gitee）](https://hxhgts.gitee.io/qqmusicunblocker)
 
+### 基于html5技术的物理小实验
+
+[曲线拟合](https://hxhgts.gitee.io/PhET-Mirror-CurveFitting/)
+
+[质量与弹簧：基础](https://hxhgts.gitee.io/PhET-Mirror-MassAndSprings/)
+
+[引力实验室：基础](https://hxhgts.gitee.io/PhET-Mirror-GravityForceLabBasics/)
+
 搬运内容如果出现任何侵权问题请联系我
 
 邮箱：HXHGTS@outlook.com
