@@ -16,6 +16,8 @@
 
 [项目地址](https://github.com/HXHGTS/FreeDownloader)
 
+[使用说明](https://hxhgts.github.io/GetFreeDownloader/)
+
 ### DNS防污染
 
 [项目地址（使用说明）](https://github.com/HXHGTS/DNSForMe)
