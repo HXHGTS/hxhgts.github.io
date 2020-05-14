@@ -23,7 +23,7 @@
 
 ### DNS防污染
 
-[项目地址（使用说明）](https://github.com/HXHGTS/DNSForMe)
+[项目地址（使用说明）](https://hxhgts.github.io/AntiDNSPollute/)
 
 [Windows64位下载地址](https://lanzous.com/icknela)
 
