@@ -32,7 +32,7 @@
 
 ### QQ加密音乐在线解锁
 
-[在线解密工具](https://hxhgts.github.io/qqmusicunblocker)
+[在线解密工具](https://hxhgts.github.io/QQMusicUnblocker/)
 
 ### 基于html5技术的物理小实验
 
