@@ -19,7 +19,7 @@
 
 [项目地址](https://github.com/HXHGTS/FreeDownloader)
 
-[使用说明](https://hxhgts.github.io/GetFreeDownloader/)
+[使用说明](https://hxhgts.github.io/FreeDownloader/)
 
 ### DNS防污染
 
