@@ -14,7 +14,7 @@
 
 ### OpenVPN服务器搭建教程
 
-[项目地址](https://github.com/HXHGTS/OpenVPN-Server-Create)
+[项目地址](https://hxhgts.github.io/OpenVPN-Server-Create)
 
 ### OpenVPN配置生成工具
 
@@ -24,13 +24,11 @@
 
 ### 标准下载器
 
-[项目地址](https://github.com/HXHGTS/FreeDownloader)
-
-[使用说明](https://hxhgts.github.io/FreeDownloader/)
+[项目地址](https://hxhgts.github.io/FreeDownloader/)
 
 ### DNS防污染
 
-[项目地址（使用说明）](https://hxhgts.github.io/AntiDNSPollute/)
+[项目地址](https://hxhgts.github.io/AntiDNSPollute/)
 
 [Windows64位下载地址](https://lanzous.com/icknela)
 
@@ -42,7 +40,7 @@
 
 ### tcp端口扫描
 
-[项目地址（使用说明）](https://github.com/HXHGTS/Port-Scanner)
+[项目地址](https://github.com/HXHGTS/Port-Scanner)
 
 [下载地址](https://lanzous.com/icm4tmj)
 
