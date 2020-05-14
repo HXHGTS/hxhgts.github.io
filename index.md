@@ -5,6 +5,13 @@
 ## 个人项目
 
 
+### 课程表
+
+[我的课程表](https://hxhgts.github.io/ClassSchedule/)
+
+## 个人项目
+
+
 ### OpenVPN服务器搭建教程
 
 [项目地址](https://github.com/HXHGTS/OpenVPN-Server-Create)
@@ -61,3 +68,6 @@
 邮箱：HXHGTS@outlook.com
 
 手机：+15854849689
+
+
+
