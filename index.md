@@ -13,9 +13,7 @@
 
 ### OpenVPN配置生成工具
 
-[项目地址](https://github.com/HXHGTS/OpenVPN-Config-Generator)
-
-[Windows64位下载地址](https://lanzous.com/icm50la)
+[项目地址](https://hxhgts.github.io/OpenVPN-Config-Generator)
 
 ### 标准下载器
 
@@ -25,21 +23,9 @@
 
 [项目地址](https://hxhgts.github.io/AntiDNSPollute/)
 
-[Windows64位下载地址](https://lanzous.com/icknela)
-
-[AdGuardHome Windows64位下载地址](https://lanzous.com/iccen4f)
-
-[Windows32位下载地址](https://lanzous.com/ickneih)
-
-[AdGuardHome Windows32位下载地址](https://lanzous.com/iccenne)
-
 ### tcp端口扫描
 
-[项目地址](https://github.com/HXHGTS/Port-Scanner)
-
-[下载地址](https://lanzous.com/icm4tmj)
-
-[tcping下载地址](https://lanzous.com/iaf596f)
+[项目地址](https://hxhgts.github.io/Port-Scanner)
 
 ## 搬运项目（避免原项目失联）
 
@@ -61,6 +47,3 @@
 邮箱：HXHGTS@outlook.com
 
 手机：+15854849689
-
-
-
