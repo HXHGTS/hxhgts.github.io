@@ -13,6 +13,8 @@
 
 [项目地址](https://github.com/HXHGTS/OpenVPN-Config-Generator)
 
+[Windows64位下载地址](https://lanzous.com/icm50la)
+
 ### 标准下载器
 
 [项目地址](https://github.com/HXHGTS/FreeDownloader)
