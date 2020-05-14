@@ -4,15 +4,12 @@
 
 ## 个人项目
 
-### OpenVPN服务器搭建教程
 
-![Image](/icon/openvpn.ico)
+### OpenVPN服务器搭建教程
 
 [项目地址](https://github.com/HXHGTS/OpenVPN-Server-Create)
 
 ### OpenVPN配置生成工具
-
-![Image](/icon/openvpn.ico)
 
 [项目地址](https://github.com/HXHGTS/OpenVPN-Config-Generator)
 
@@ -26,11 +23,11 @@
 
 [项目地址（使用说明）](https://github.com/HXHGTS/DNSForMe)
 
-[Windows64位下载地址](https://lanzous.com/iccepxg)
+[Windows64位下载地址](https://lanzous.com/icknela)
 
 [AdGuardHome Windows64位下载地址](https://lanzous.com/iccen4f)
 
-[Windows32位下载地址](https://lanzous.com/iccepra)
+[Windows32位下载地址](https://lanzous.com/ickneih)
 
 [AdGuardHome Windows32位下载地址](https://lanzous.com/iccenne)
 
@@ -38,21 +35,16 @@
 
 [项目地址（使用说明）](https://github.com/HXHGTS/Port-Scanner)
 
-[下载地址](https://github.com/HXHGTS/Port-Scanner/blob/master/%E7%AB%AF%E5%8F%A3%E6%89%AB%E6%8F%8F%E5%B7%A5%E5%85%B7.exe?raw=true)
+[下载地址](https://lanzous.com/icm4tmj)
 
-[tcping下载地址](https://github.com/HXHGTS/Port-Scanner/blob/master/tcping.exe?raw=true)
-
-若无法下载，请在hosts文件中加入一行：
-
-151.101.76.133 raw.githubusercontent.com
+[tcping下载地址](https://lanzous.com/iaf596f)
 
 ## 搬运项目（避免原项目失联）
 
+
 ### QQ加密音乐在线解锁
 
-![Image](/icon/qqm.ico)
-
-[在线解密工具](https://hxhgts.gitee.io/qqmusicunblocker)
+[在线解密工具](https://hxhgts.github.io/qqmusicunblocker)
 
 ### 基于html5技术的物理小实验
 
