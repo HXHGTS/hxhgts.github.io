@@ -36,11 +36,9 @@
 
 ### 基于html5技术的物理小实验
 
-[曲线拟合](https://hxhgts.github.io/PhET-Mirror-CurveFitting/)
+[反代镜像](https://do.hxhgts.workers.dev/en/simulations/category/physics)
 
-[质量与弹簧：基础](https://hxhgts.github.io/PhET-Mirror-MassAndSprings/)
-
-[引力实验室：基础](https://hxhgts.github.io/PhET-Mirror-GravityForceLabBasics/)
+如果打不开请在hosts文件中加入一行1.0.0.1 do.hxhgts.workers.dev或使用DNS防污染软件即可打开！
 
 搬运内容如果出现任何侵权问题请联系我
 
