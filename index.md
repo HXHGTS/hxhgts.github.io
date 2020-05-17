@@ -6,11 +6,7 @@
 
 注意：以下项目中登录功能均不可用，仅可用于查询资料！
 
-[谷歌](https://g.hxhgts.workers.dev) [维基百科](https://wiki.hxhgts.workers.dev)
-
-[谷歌新闻](https://gnews.hxhgts.workers.dev) [Steam社区](https://steamcommunity.hxhgts.workers.dev)
-
-[谷歌翻译](https://translate.hxhgts.workers.dev) 
+[谷歌](https://g.hxhgts.workers.dev) [维基百科](https://wiki.hxhgts.workers.dev) [谷歌新闻](https://gnews.hxhgts.workers.dev) [Steam社区](https://steamcommunity.hxhgts.workers.dev) [谷歌翻译](https://translate.hxhgts.workers.dev) 
 
 ## 个人项目
 
