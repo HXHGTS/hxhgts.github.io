@@ -29,6 +29,10 @@
 
 [项目地址](https://hxhgts.github.io/AntiDNSPollute/)
 
+### 全局类VPN国内外分流（已集成于DNS防污染中，此为分解版本）
+
+[项目地址](https://hxhgts.github.io/ChangeVPNRoute/)
+
 ### tcp端口扫描
 
 [项目地址](https://hxhgts.github.io/Port-Scanner)
