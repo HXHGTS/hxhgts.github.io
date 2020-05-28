@@ -15,9 +15,13 @@
 
 ### OpenVPN服务器搭建教程
 
+#### 警告⚠：此技术仅限用于个人搭建游戏加速器使用！！！若用于其他违法目的，后果自负！！！
+
 [项目地址](https://hxhgts.github.io/OpenVPN-Server-Create)
 
 ### OpenVPN配置生成工具
+
+#### 警告⚠：此技术仅限用于个人搭建游戏加速器使用！！！若用于其他违法目的，后果自负！！！
 
 [项目地址](https://hxhgts.github.io/OpenVPN-Config-Generator)
 
