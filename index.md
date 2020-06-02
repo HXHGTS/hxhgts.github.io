@@ -25,13 +25,9 @@
 
 [项目地址](https://hxhgts.github.io/OpenVPN-Config-Generator)
 
-### 标准下载器（基于标准核心）
+### 标准下载器
 
 [项目地址](https://hxhgts.github.io/FreeDownloader/)
-
-### 标准下载器（基于破解核心）
-
-[项目地址](https://hxhgts.github.io/FreeDownloaderX/)
 
 ### DNS防污染
 
