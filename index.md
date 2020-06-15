@@ -52,6 +52,10 @@
 
 [反代镜像](https://do.hxhgts.workers.dev/en/simulations/category/physics)
 
+### Github高速下载工具
+
+[高速下载](http://g.widyun.com/)
+
 如果打不开请在hosts文件中加入一行1.0.0.1 do.hxhgts.workers.dev或使用DNS防污染软件即可打开！
 
 搬运内容如果出现任何侵权问题请联系我
