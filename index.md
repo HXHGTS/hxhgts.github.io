@@ -12,25 +12,25 @@
 
 由于国内访问Github的Fastly CDN服务器非常不稳定，因此所有项目生成的下载地址均放在国内不限速网盘蓝奏云上！
 
-[OpenVPN服务器搭建教程](https://hxhgts.github.io/OpenVPN-Server-Create) [Outline服务器搭建教程](https://hxhgts.github.io/Outline-Server-Create/)
+[OpenVPN服务器搭建教程](https://hxhgts.github.io/OpenVPN-Server-Create)
 
-[OpenVPN配置生成工具](https://hxhgts.github.io/OpenVPN-Config-Generator) [标准下载器](https://hxhgts.github.io/FreeDownloader/)
+[Outline服务器搭建教程](https://hxhgts.github.io/Outline-Server-Create/)
 
-[DNS防污染](https://hxhgts.github.io/AntiDNSPollute/) [tcp端口扫描](https://hxhgts.github.io/Port-Scanner)
+[OpenVPN配置生成工具](https://hxhgts.github.io/OpenVPN-Config-Generator)
+
+[标准下载器](https://hxhgts.github.io/FreeDownloader/)
+
+[DNS防污染](https://hxhgts.github.io/AntiDNSPollute/)
+
+[tcp端口扫描](https://hxhgts.github.io/Port-Scanner)
 
 [全局类VPN国内外分流（已集成于DNS防污染中，此为分解版本）](https://hxhgts.github.io/ChangeVPNRoute/)
 
 ## 搬运项目（避免原项目失联）
 
-### 加密音乐在线解锁
+[会员限时专享音乐在线解密工具](https://hxhgts.github.io/QQMusicUnblocker/)
 
-[在线解密工具](https://hxhgts.github.io/QQMusicUnblocker/)
-
-### Github高速下载工具
-
-[高速下载](http://g.widyun.com/)
-
-如果打不开请在hosts文件中加入一行1.0.0.1 do.hxhgts.workers.dev或使用DNS防污染软件即可打开！
+[Github高速下载工具，可用于下载软件包](http://g.widyun.com/)
 
 搬运内容如果出现任何侵权问题请联系我
 
