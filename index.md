@@ -12,16 +12,15 @@
 
 由于国内访问Github的Fastly CDN服务器非常不稳定，因此所有项目生成的下载地址均放在国内不限速网盘蓝奏云上！
 
-
 ### OpenVPN服务器搭建教程
-
-#### 警告⚠：此技术仅限用于个人搭建游戏加速器使用！！！若用于其他违法目的，后果自负！！！
 
 [项目地址](https://hxhgts.github.io/OpenVPN-Server-Create)
 
-### OpenVPN配置生成工具
+### Outline服务器搭建教程
 
-#### 警告⚠：此技术仅限用于个人搭建游戏加速器使用！！！若用于其他违法目的，后果自负！！！
+[项目地址](https://hxhgts.github.io/Outline-Server-Create/)
+
+### OpenVPN配置生成工具
 
 [项目地址](https://hxhgts.github.io/OpenVPN-Config-Generator)
 
@@ -43,14 +42,9 @@
 
 ## 搬运项目（避免原项目失联）
 
-
 ### 加密音乐在线解锁
 
 [在线解密工具](https://hxhgts.github.io/QQMusicUnblocker/)
-
-### 基于html5技术的物理小实验
-
-[反代镜像](https://do.hxhgts.workers.dev/en/simulations/category/physics)
 
 ### Github高速下载工具
 
