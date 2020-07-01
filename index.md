@@ -20,7 +20,7 @@
 
 [OpenVPN配置生成工具](https://hxhgts.github.io/OpenVPN-Config-Generator)
 
-[标准下载器](https://hxhgts.github.io/FreeDownloader/)
+[FreeDownloader](https://hxhgts.github.io/FreeDownloader/)
 
 [DNS防污染](https://hxhgts.github.io/AntiDNSPollute/)
 
