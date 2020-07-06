@@ -18,6 +18,8 @@
 
 [Outline服务器搭建教程](https://hxhgts.github.io/Outline-Server-Create/)
 
+[WireGuard服务器搭建教程](https://hxhgts.github.io/WireGuardServer/)
+
 [NAT转发规则配置](https://hxhgts.github.io/NATConfigGenerator/)
 
 [OpenVPN配置生成工具](https://hxhgts.github.io/OpenVPN-Config-Generator)
