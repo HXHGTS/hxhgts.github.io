@@ -30,8 +30,6 @@
 
 [tcp端口扫描](https://hxhgts.github.io/Port-Scanner)
 
-[全局类VPN国内外分流（已集成于DNS防污染中，此为分解版本）](https://hxhgts.github.io/ChangeVPNRoute/)
-
 ## 搬运项目（避免原项目失联）
 
 [会员限时专享音乐在线解密工具](https://hxhgts.github.io/QQMusicUnblocker/)
