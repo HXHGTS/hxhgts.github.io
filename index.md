@@ -34,6 +34,8 @@
 
 [会员限时专享音乐在线解密工具](https://hxhgts.github.io/QQMusicUnblocker/)
 
+[V2ray订阅转换Clash订阅](https://hxhgts.github.io/ClashRuleTransfer/)
+
 [Github高速下载工具，可用于下载软件包](http://g.widyun.com/)
 
 搬运内容如果出现任何侵权问题请联系我
