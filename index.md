@@ -2,13 +2,7 @@
 
 [国内镜像](https://hxhgts.gitee.io/)
 
-一个闲来无事搞搞代码的孩子。。。🤮（会一点点C语言、一点点VB、一点点JAVA😊）
-
-## 反代项目
-
-注意：以下项目中登录功能均不可用，仅可用于查询资料！
-
-[谷歌](https://g.hxhgts.workers.dev) [维基百科](https://wiki.hxhgts.workers.dev) [维基新闻](https://wikinews.hxhgts.workers.dev) [谷歌新闻](https://gnews.hxhgts.workers.dev) [Steam社区](https://steamcommunity.hxhgts.workers.dev) [谷歌翻译](https://translate.hxhgts.workers.dev) 
+一个闲来无事搞搞代码的孩子。。。🤮
 
 ## 个人项目
 
@@ -20,7 +14,7 @@
 
 [WireGuard服务器搭建](https://hxhgts.github.io/WireGuardServer/)
 
-[trojan服务器搭建](https://zhangmuhan.club/TrojanServer/)
+[trojan服务器搭建](https://hxhgts.github.io/TrojanServer/)
 
 [NAT转发规则配置](https://hxhgts.github.io/NATConfigGenerator/)
 
