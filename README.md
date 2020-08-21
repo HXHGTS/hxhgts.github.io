@@ -18,6 +18,10 @@
 
 [NAT转发规则配置](https://hxhgts.github.io/NATConfigGenerator/)
 
+[tcp性能增强配置](https://hxhgts.github.io/TCPOptimization/)
+
+[AWS EC2 root配置](https://hxhgts.github.io/AWSECSRoot/)
+
 [OpenVPN配置生成工具](https://hxhgts.github.io/OpenVPN-Config-Generator)
 
 [FreeDownloader](https://hxhgts.github.io/FreeDownloader/)
@@ -25,6 +29,8 @@
 [DNS防污染](https://hxhgts.github.io/AntiDNSPollute/)
 
 [tcp端口扫描](https://hxhgts.github.io/Port-Scanner)
+
+[禁用华为/荣耀手机自动更新](https://hxhgts.github.io/HuaweiAntiUpdate/)
 
 ## 搬运项目（避免原项目失联）
 
