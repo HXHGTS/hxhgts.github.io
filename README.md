@@ -22,7 +22,7 @@
 
 ## 搬运项目（避免原项目失联）
 
-[会员限时专享音乐在线解密工具(镜像)](https://hxhgts.github.io/QQMusicUnblocker/)     [V2ray订阅转换Clash订阅(镜像)](https://hxhgts.github.io/ClashRuleTransfer/)
+[会员限时专享音乐在线解密工具(镜像)](https://hxhgts.github.io/QQMusicUnblocker/)     [ss/ssr/v2ray/trojan(订阅/链接)转换Clash(R)订阅(镜像)](https://hxhgts.github.io/ClashRuleTransfer/)
 
 搬运内容如果出现任何侵权问题请联系我
 
