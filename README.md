@@ -8,7 +8,7 @@
 
 由于国内访问Github的Fastly CDN服务器非常不稳定，因此所有项目生成的下载地址均放在国内不限速网盘蓝奏云上！
 
-[OpenVPN服务器搭建](https://hxhgts.github.io/OpenVPN-Server-Create)     [Outline服务器搭建](https://hxhgts.github.io/Outline-Server-Create/)
+[OpenVPN服务器搭建](https://hxhgts.github.io/OpenVPN-Server-Create)     [Shadowsocks服务器搭建](https://hxhgts.github.io/SSServer/)
 
 [WireGuard服务器搭建](https://hxhgts.github.io/WireGuardServer/)     [trojan服务器搭建](https://hxhgts.github.io/TrojanServer/)
 
