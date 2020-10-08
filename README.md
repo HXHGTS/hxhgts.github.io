@@ -22,6 +22,8 @@
 
 [tcp端口扫描](https://hxhgts.icu/Port-Scanner)     [禁用华为/荣耀手机自动更新](https://hxhgts.icu/HuaweiAntiUpdate/)
 
+[卸载阿里(腾讯)云监控](https://hxhgts.icu/AliyunProtectUninstall/)
+
 ## 搬运项目（避免原项目失联）
 
 [会员限时专享音乐在线解密工具(镜像)](https://hxhgts.icu/QQMusicUnblocker/)     [ss/ssr/v2ray/trojan(订阅/链接)转换Clash(R)订阅(镜像)](https://hxhgts.icu/ClashRuleTransfer/)
