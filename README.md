@@ -8,13 +8,13 @@
 
 [Shadowsocks服务器搭建](https://hxhgts.icu/SSServer/) [WireGuard服务器搭建](https://hxhgts.icu/WireGuardServer/)
 
-[trojan服务器搭建](https://hxhgts.icu/TrojanServer/) [v2ray websocket+tls搭建](https://hxhgts.icu/v2ray-websocket-tls-nginx/)
+[trojan服务器搭建](https://hxhgts.icu/TrojanServer/) [V2ray websocket+tls搭建](https://hxhgts.icu/v2ray-websocket-tls-nginx/)
 
 [Surge Snell搭建](https://hxhgts.icu/SnellServer/) [NAT转发规则配置](https://hxhgts.icu/NATConfigGenerator/)
 
 [AWS EC2 root配置](https://hxhgts.icu/AWSECSRoot/) [卸载阿里(腾讯)云监控](https://hxhgts.icu/AliyunProtectUninstall/)
 
-[CloudFlare CDN优选](https://hxhgts.icu/CloudFlareIP/)
+[CloudFlare CDN优选](https://hxhgts.icu/CloudFlareIP/) [Heroku V2ray搭建](https://github.com/HXHGTS/v2ray-heroku)
 
 [FreeDownloader](https://hxhgts.icu/FreeDownloader/) [DNS防污染](https://hxhgts.icu/AntiDNSPollute/)
 
