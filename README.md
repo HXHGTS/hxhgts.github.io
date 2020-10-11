@@ -10,7 +10,7 @@
 
 [trojan服务器搭建](https://hxhgts.icu/TrojanServer/) [v2ray websocket+tls搭建](https://hxhgts.icu/v2ray-websocket-tls-nginx/)
 
-[NAT转发规则配置](https://hxhgts.icu/NATConfigGenerator/) [Surge Snell搭建](https://hxhgts.icu/SnellServer/)
+[Surge Snell搭建](https://hxhgts.icu/SnellServer/) [NAT转发规则配置](https://hxhgts.icu/NATConfigGenerator/)
 
 [AWS EC2 root配置](https://hxhgts.icu/AWSECSRoot/) [卸载阿里(腾讯)云监控](https://hxhgts.icu/AliyunProtectUninstall/)
 
