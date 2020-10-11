@@ -8,17 +8,17 @@
 
 由于国内访问Github的Fastly CDN服务器非常不稳定，因此所有项目生成的下载地址均放在国内不限速网盘蓝奏云上！
 
-[OpenVPN服务器搭建](https://hxhgts.icu/OpenVPN-Server-Create)     [Shadowsocks服务器搭建](https://hxhgts.icu/SSServer/)
+[Shadowsocks服务器搭建](https://hxhgts.icu/SSServer/) [WireGuard服务器搭建](https://hxhgts.icu/WireGuardServer/)
 
-[WireGuard服务器搭建](https://hxhgts.icu/WireGuardServer/)     [trojan服务器搭建](https://hxhgts.icu/TrojanServer/)
+[trojan服务器搭建](https://hxhgts.icu/TrojanServer/) [v2ray websocket+tls搭建](https://hxhgts.icu/v2ray-websocket-tls-nginx/)
 
-[v2ray websocket+tls搭建](https://hxhgts.icu/v2ray-websocket-tls-nginx/) [NAT转发规则配置](https://hxhgts.icu/NATConfigGenerator/)
+[NAT转发规则配置](https://hxhgts.icu/NATConfigGenerator/) [Surge Snell搭建](https://hxhgts.icu/SnellServer/)
 
-[Surge Snell搭建](https://hxhgts.icu/SnellServer/) [AWS EC2 root配置](https://hxhgts.icu/AWSECSRoot/)
+[AWS EC2 root配置](https://hxhgts.icu/AWSECSRoot/) [卸载阿里(腾讯)云监控](https://hxhgts.icu/AliyunProtectUninstall/)
 
-[FreeDownloader](https://hxhgts.icu/FreeDownloader/)     [DNS防污染](https://hxhgts.icu/AntiDNSPollute/)
+[FreeDownloader](https://hxhgts.icu/FreeDownloader/) [DNS防污染](https://hxhgts.icu/AntiDNSPollute/)
 
-[禁用华为/荣耀手机自动更新](https://hxhgts.icu/HuaweiAntiUpdate/)     [卸载阿里(腾讯)云监控](https://hxhgts.icu/AliyunProtectUninstall/)
+[禁用华为/荣耀手机自动更新](https://hxhgts.icu/HuaweiAntiUpdate/)
 
 ## 搬运项目（避免原项目失联）
 
