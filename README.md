@@ -14,6 +14,8 @@
 
 [AWS EC2 root配置](https://hxhgts.icu/AWSECSRoot/) [卸载阿里(腾讯)云监控](https://hxhgts.icu/AliyunProtectUninstall/)
 
+[CloudFlare CDN优选](https://hxhgts.icu/CloudFlareIP/)
+
 [FreeDownloader](https://hxhgts.icu/FreeDownloader/) [DNS防污染](https://hxhgts.icu/AntiDNSPollute/)
 
 [禁用华为/荣耀手机自动更新](https://hxhgts.icu/HuaweiAntiUpdate/)
