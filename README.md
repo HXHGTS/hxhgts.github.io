@@ -14,15 +14,11 @@
 
 [v2ray websocket+tls搭建](https://hxhgts.icu/v2ray-websocket-tls-nginx/) [NAT转发规则配置](https://hxhgts.icu/NATConfigGenerator/)
 
-[tcp性能增强配置](https://hxhgts.icu/TCPOptimization/) [AWS EC2 root配置](https://hxhgts.icu/AWSECSRoot/)
-
-[OpenVPN配置生成工具](https://hxhgts.icu/OpenVPN-Config-Generator)
+[Surge Snell搭建](https://hxhgts.icu/SnellServer/) [AWS EC2 root配置](https://hxhgts.icu/AWSECSRoot/)
 
 [FreeDownloader](https://hxhgts.icu/FreeDownloader/)     [DNS防污染](https://hxhgts.icu/AntiDNSPollute/)
 
-[tcp端口扫描](https://hxhgts.icu/Port-Scanner)     [禁用华为/荣耀手机自动更新](https://hxhgts.icu/HuaweiAntiUpdate/)
-
-[卸载阿里(腾讯)云监控](https://hxhgts.icu/AliyunProtectUninstall/)
+[禁用华为/荣耀手机自动更新](https://hxhgts.icu/HuaweiAntiUpdate/)     [卸载阿里(腾讯)云监控](https://hxhgts.icu/AliyunProtectUninstall/)
 
 ## 搬运项目（避免原项目失联）
 
