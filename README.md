@@ -18,7 +18,7 @@
 
 [FreeDownloader](https://hxhgts.icu/FreeDownloader/)  [DNS防污染](https://hxhgts.icu/AntiDNSPollute/)
 
-[禁用华为/荣耀手机自动更新](https://hxhgts.icu/HuaweiAntiUpdate/)
+[禁用华为/荣耀手机自动更新](https://hxhgts.icu/HuaweiAntiUpdate/) [DNS收集整理](https://hxhgts.icu/GreatDNS/)
 
 ## 搬运项目（避免原项目失联）
 
