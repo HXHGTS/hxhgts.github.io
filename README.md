@@ -14,9 +14,9 @@
 
 [AWS EC2 root配置](https://hxhgts.icu/AWSECSRoot/)  [卸载阿里(腾讯)云监控](https://hxhgts.icu/AliyunProtectUninstall/)
 
-[CloudFlare CDN优选](https://hxhgts.icu/CloudFlareIP/)  [NAT转发规则配置(基于firewalld)](https://hxhgts.icu/NATConfigGenerator/)
+[NAT转发规则配置(基于iptables)](https://hxhgts.icu/NATConfigGenerator-iptables/)  [NAT转发规则配置(基于firewalld)](https://hxhgts.icu/NATConfigGenerator/)
 
-[NAT转发规则配置(基于iptables)](https://hxhgts.icu/NATConfigGenerator-iptables/) [DNS收集整理](https://hxhgts.icu/GreatDNS/)
+[CloudFlare CDN优选](https://hxhgts.icu/CloudFlareIP/)  [DNS收集整理](https://hxhgts.icu/GreatDNS/)
 
 [FreeDownloader](https://hxhgts.icu/FreeDownloader/)  [DNS防污染](https://hxhgts.icu/AntiDNSPollute/)
 
