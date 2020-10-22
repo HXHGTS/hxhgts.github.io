@@ -14,15 +14,17 @@
 
 [AWS EC2 root配置](https://hxhgts.icu/AWSECSRoot/)  [卸载阿里(腾讯)云监控](https://hxhgts.icu/AliyunProtectUninstall/)
 
-[CloudFlare CDN优选](https://hxhgts.icu/CloudFlareIP/)  [NAT转发规则配置](https://hxhgts.icu/NATConfigGenerator/)
+[CloudFlare CDN优选](https://hxhgts.icu/CloudFlareIP/)  [NAT转发规则配置(基于firewalld)](https://hxhgts.icu/NATConfigGenerator/)
+
+[NAT转发规则配置(基于iptables)](https://hxhgts.icu/NATConfigGenerator-iptables/) [DNS收集整理](https://hxhgts.icu/GreatDNS/)
 
 [FreeDownloader](https://hxhgts.icu/FreeDownloader/)  [DNS防污染](https://hxhgts.icu/AntiDNSPollute/)
 
-[禁用华为/荣耀手机自动更新](https://hxhgts.icu/HuaweiAntiUpdate/) [DNS收集整理](https://hxhgts.icu/GreatDNS/)
+[禁用华为/荣耀手机自动更新](https://hxhgts.icu/HuaweiAntiUpdate/) 
 
 ## 搬运项目（避免原项目失联）
 
-[会员限时专享音乐在线解密工具(镜像)](https://hxhgts.icu/QQMusicUnblocker/)  [ss/ssr/v2ray/trojan(订阅/链接)转换Clash(R)订阅(镜像)](https://hxhgts.icu/ClashRuleTransfer/)
+[ss/ssr/v2ray/trojan(订阅/链接)转换Clash(R)订阅(镜像)](https://hxhgts.icu/ClashRuleTransfer/)
 
 搬运内容如果出现任何侵权问题请联系我
 
