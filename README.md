@@ -1,6 +1,4 @@
-# 欢喜和哥特的个人主页
-
-一个闲来无事搞搞代码的孩子。。。🤮
+# Welcome to HXHGTS's Github page!!!
 
 ## 个人项目
 
