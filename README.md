@@ -1,5 +1,7 @@
 # Welcome to HXHGTS's Github page!!!
 
+[个人主页](https://www.hxhgts.ml/) [个人主页(国内可访问)](https://hp.hxhgts.workers.dev/)
+
 ## 个人项目
 
 由于国内访问Github的Fastly CDN服务器非常不稳定，因此所有项目生成的下载地址均放在国内不限速网盘蓝奏云上！
