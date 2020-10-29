@@ -1,6 +1,6 @@
 # Welcome to HXHGTS's Github page!!!
 
-[个人主页](https://www.hxhgts.ml/) [个人主页(国内可访问)](https://hp.hxhgts.workers.dev/)
+[个人主页(还未完工)](https://www.hxhgts.ml/)
 
 ## 个人项目
 
