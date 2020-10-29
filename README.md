@@ -24,7 +24,7 @@
 
 ## 搬运项目（避免原项目失联）
 
-[ss/ssr/v2ray/trojan(订阅/链接)转换Clash(R)订阅(镜像)](https://hxhgts.ml/ClashRuleTransfer/)
+[ss/ssr/v2ray/trojan(订阅/链接)转换Clash(R)订阅(镜像)](https://acl4ssr-sub.github.io/)
 
 搬运内容如果出现任何侵权问题请联系我
 
