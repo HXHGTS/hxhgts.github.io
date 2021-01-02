@@ -1,7 +1,5 @@
 # Welcome to HXHGTS's Github page!!!
 
-[个人主页(还未完工)](https://www.hxhgts.ml/)
-
 ## 个人项目
 
 由于国内访问Github的Fastly CDN服务器非常不稳定，因此所有项目生成的下载地址均放在国内不限速网盘蓝奏云上！
@@ -20,7 +18,7 @@
 
 [FreeDownloader](https://hxhgts.ml/FreeDownloader/)  [DNS防污染](https://hxhgts.ml/AntiDNSPollute/)
 
-[禁用华为/荣耀手机自动更新](https://hxhgts.ml/HuaweiAntiUpdate/) 
+[禁用华为/荣耀手机自动更新](https://hxhgts.ml/HuaweiAntiUpdate/)  [IDM激活/反激活方案](https://hxhgts.ml/DeactivationIDM/)
 
 ## 搬运项目（避免原项目失联）
 
