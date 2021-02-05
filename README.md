@@ -14,7 +14,7 @@
 
 [NAT转发规则配置(基于iptables)](https://hxhgts.ml/NATConfigGenerator-iptables/)  [NAT转发规则配置(基于firewalld)](https://hxhgts.ml/NATConfigGenerator/)
 
-[CloudFlare CDN优选](https://hxhgts.ml/CloudFlareIP/)  [DNS收集整理](https://hxhgts.ml/GreatDNS/)
+[CloudFlare CDN优选](https://hxhgts.ml/CloudflareIP/)  [DNS收集整理](https://hxhgts.ml/GreatDNS/)
 
 [FreeDownloader](https://hxhgts.ml/FreeDownloader/)  [DNS防污染](https://hxhgts.ml/AntiDNSPollute/)
 
