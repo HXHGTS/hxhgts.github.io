@@ -2,8 +2,6 @@
 
 ## 个人项目
 
-由于国内访问Github的Fastly CDN服务器非常不稳定，因此所有项目生成的下载地址均放在国内不限速网盘蓝奏云上！
-
 [Shadowsocks服务器搭建](https://hxhgts.ml/SSServer/)  [WireGuard服务器搭建](https://hxhgts.ml/WireGuardServer/)
 
 [trojan服务器搭建](https://hxhgts.ml/TrojanServer/) [V2ray websocket+tls搭建](https://hxhgts.ml/v2ray-websocket-tls-nginx/)
