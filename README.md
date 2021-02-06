@@ -20,7 +20,7 @@
 
 ## 搬运项目（避免原项目失联）
 
-[转换Clash订阅(镜像)](https://hxhgts.ml/ClashRuleTransfer/)  [Clash控制面板(镜像)](https://clash.hxhgts.ml/)
+[转换Clash订阅(镜像)](https://hxhgts.ml/ClashRuleTransfer/)  [Clash控制面板(镜像)](http://clash.hxhgts.ml/)
 
 搬运内容如果出现任何侵权问题请联系我
 
