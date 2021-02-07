@@ -2,11 +2,11 @@
 
 ## 个人项目
 
-[ClashByShell客户端(暂仅支持Windows)](http://hxhgts.ml/ClashByShell/)  [Shadowsocks服务器搭建](https://hxhgts.ml/SSServer/)
+[ClashByShell客户端(暂仅支持Windows)](http://hxhgts.ml/ClashByShell/)  [V2ray websocket+tls搭建](https://hxhgts.ml/v2ray-websocket-tls-nginx/)
 
-[WireGuard服务器搭建](https://hxhgts.ml/WireGuardServer/)
+[trojan服务器搭建](https://hxhgts.ml/TrojanServer/)  [EUServ低内存V2ray websocket+tls搭建](https://hxhgts.ml/v2ray-websocket-tls-nginx-EUServ/)
 
-[trojan服务器搭建](https://hxhgts.ml/TrojanServer/)  [V2ray websocket+tls搭建](https://hxhgts.ml/v2ray-websocket-tls-nginx/)
+[WireGuard服务器搭建](https://hxhgts.ml/WireGuardServer/)  [Shadowsocks服务器搭建](https://hxhgts.ml/SSServer/)
 
 [Surge Snell搭建](https://hxhgts.ml/SnellServer/)  [Heroku V2ray搭建](https://hxhgts.ml/v2ray-heroku/)
 
