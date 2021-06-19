@@ -13,6 +13,3 @@
 [NAT转发规则配置(基于firewalld)](https://hxhgts.ml/NATConfigGenerator/)  [CloudFlare CDN优选](https://hxhgts.ml/CloudflareIP/)  [DNS收集整理](https://hxhgts.ml/GreatDNS/)
 
 [FreeDownloader](https://hxhgts.ml/FreeDownloader/)  [Netch游戏规则](https://github.com/HXHGTS/Netch-Rules)
-
-
-邮箱：[admin@hxhgts.cf](mailto:admin@hxhgts.cf)
