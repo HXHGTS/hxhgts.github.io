@@ -2,9 +2,9 @@
 
 ## 个人项目
 
-[ClashByShell客户端(暂仅支持Windows)](http://hxhgts.ml/ClashByShell/)  [V2ray websocket+tls搭建](https://hxhgts.ml/v2ray-websocket-tls-nginx/)  [xray websocket+tls搭建](https://hxhgts.ml/xray-websocket-tls-nginx/)
+[ClashByShell客户端(暂仅支持Windows)](http://hxhgts.ml/ClashByShell/)  [xray websocket+tls搭建](https://hxhgts.ml/xray-websocket-tls-nginx/)
 
-[trojan服务器搭建](https://hxhgts.ml/TrojanServer/)  [EUServ低内存V2ray websocket+tls搭建](https://hxhgts.ml/v2ray-websocket-tls-nginx-EUServ/)  [EUServ低内存xray websocket+tls搭建](https://hxhgts.ml/xray-websocket-tls-nginx-EUServ/)
+[trojan服务器搭建](https://hxhgts.ml/TrojanServer/)  [EUServ低内存xray websocket+tls搭建](https://hxhgts.ml/xray-websocket-tls-nginx-EUServ/)
 
 [WireGuard服务器搭建](https://hxhgts.ml/WireGuardServer/)  [Heroku V2ray搭建](https://hxhgts.ml/v2ray-heroku/)  [Heroku xray搭建](https://hxhgts.ml/xray-heroku/)
 
