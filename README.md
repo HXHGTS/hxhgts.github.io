@@ -6,7 +6,7 @@
 
 [trojan服务器搭建](https://hxhgts.ml/TrojanServer/)  [EUServ低内存xray websocket+tls搭建](https://hxhgts.ml/xray-websocket-tls-nginx-EUServ/)
 
-[WireGuard服务器搭建](https://hxhgts.ml/WireGuardServer/)  [Heroku V2ray搭建](https://hxhgts.ml/v2ray-heroku/)  [Heroku xray搭建](https://hxhgts.ml/xray-heroku/)
+[WireGuard服务器搭建](https://hxhgts.ml/WireGuardServer/)  [Heroku xray搭建](https://hxhgts.ml/xray-heroku/)
 
 [AWS EC2 root配置](https://hxhgts.ml/AWSECSRoot/)  [卸载阿里(腾讯)云监控](https://hxhgts.ml/AliyunProtectUninstall/)[NAT转发规则配置(基于iptables)](https://hxhgts.ml/NATConfigGenerator-iptables/)
 
