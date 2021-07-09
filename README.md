@@ -12,6 +12,6 @@
 
 [流量转发(基于iptables)](https://hxhgts.ml/NATConfigGenerator-iptables/)
 
-[流量转发(基于firewalld)](https://hxhgts.ml/NATConfigGenerator/)  [流量转发(基于realm)](https://github.com/HXHGTS/realm-portforwarder)
+[流量转发(基于firewalld)](https://hxhgts.ml/NATConfigGenerator/)  [流量转发(基于realm)](https://hxhgts.ml/realm-portforwarder/)
 
 [FreeDownloader](https://hxhgts.ml/FreeDownloader/)  [Netch游戏规则](https://github.com/HXHGTS/Netch-Rules)
