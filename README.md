@@ -1,5 +1,3 @@
-# Welcome to HXHGTS's Github page!!!
-
 ### 科学上网服务器搭建
 
 [xray websocket+tls搭建](https://hxhgts.ml/xray-websocket-tls-nginx/)  [trojan服务器搭建](https://hxhgts.ml/TrojanServer/)
