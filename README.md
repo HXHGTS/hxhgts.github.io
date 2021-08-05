@@ -26,5 +26,5 @@
 
 ### 常用工具
 
-[FreeDownloader](https://hxhddns.asia/FreeDownloader/)  
+[FreeDownloader](https://hxhddns.asia/FreeDownloader/)  [随机文件生成器](https://github.com/HXHGTS/DumpGenerator)
 
