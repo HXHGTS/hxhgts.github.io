@@ -12,7 +12,7 @@
 
 [服务器常用数据收集整理](https://hxhddns.asia/GreatDNS/)  [AWS EC2 root配置](https://hxhddns.asia/AWSECSRoot/)  
 
-[卸载阿里(腾讯)云监控](https://hxhddns.asia/AliyunProtectUninstall/)  [CF WARP解锁Netflix](https://github.com/HXHGTS/Add-Netflix_Support)
+[卸载阿里(腾讯)云监控](https://hxhddns.asia/AliyunProtectUninstall/)  [CF WARP](https://hxhddns.asia/Cloudflare_WARP_Connect)
 
 ### 流量转发
 
