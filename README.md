@@ -22,7 +22,7 @@
 
 ### 游戏加速
 
-[Netch游戏规则](https://github.com/HXHGTS/Netch-Rules)
+[Netch游戏规则](https://hxhddns.asia/Netch-Rules/)
 
 ### 常用工具
 
