@@ -1,6 +1,6 @@
 ### 科学上网服务器搭建
 
-[xray websocket+tls搭建](https://hxhddns.asia/xray-websocket-tls-nginx/)  [trojan服务器搭建](https://github.com/HXHGTS/TrojanServerByXray)
+[xray websocket+tls搭建](http://hxhddns.asia/xray-websocket-tls/)  [trojan服务器搭建](https://hxhddns.asia/TrojanServerByXray)
 
 [WireGuard服务器搭建](https://hxhddns.asia/WireGuardServer/)  
 
