@@ -6,7 +6,7 @@
 
 ### 科学上网客户端
 
-[ClashByShell客户端(暂仅支持Windows)](https://hxhddns.asia/ClashByShell/)  
+[ClashByShell客户端(暂仅支持Windows)](https://hxhddns.asia/ClashByShell/)  [Clash配置文件](https://hxhddns.asia/Clash-Config/)
 
 ### 服务器相关
 
