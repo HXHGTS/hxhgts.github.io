@@ -2,7 +2,7 @@
 
 [xray websocket+tls搭建](https://hxhddns.asia/xray-websocket-tls/)  [trojan服务器搭建](https://hxhddns.asia/TrojanServerByXray)
 
-[WireGuard服务器搭建](https://hxhddns.asia/WireGuardServer/)  
+[WireGuard服务器搭建](https://hxhddns.asia/WireGuardServer/)  [Shadowsocks服务器搭建](https://hxhddns.asia/SSServerByXray)
 
 ### 科学上网客户端
 
