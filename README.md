@@ -20,7 +20,7 @@
 
 [卸载阿里(腾讯)云监控](https://hxhddns.asia/AliyunProtectUninstall/)  [Cloudflare WARP](https://hxhddns.asia/Cloudflare_WARP_Connect)
 
-[服务器内核参数优化](https://github.com/HXHGTS/TCPOptimization)
+[服务器内核参数优化](https://hxhddns.asia/TCPOptimization/)
 
 ### 流量转发
 
