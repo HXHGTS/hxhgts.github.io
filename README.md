@@ -6,33 +6,33 @@
 
 ### 科学上网服务器搭建
 
-[xray websocket+tls搭建](https://hxhddns.top/xray-websocket-tls/)  [trojan服务器搭建](https://hxhddns.top/TrojanServerByXray)
+[xray websocket+tls搭建](https://hxhgts.github.io/xray-websocket-tls/)  [trojan服务器搭建](https://hxhgts.github.io/TrojanServerByXray)
 
-[WireGuard服务器搭建](https://hxhddns.top/WireGuardServer/)  [Shadowsocks服务器搭建](https://hxhddns.top/SSServerByXray)
+[WireGuard服务器搭建](https://hxhgts.github.io/WireGuardServer/)  [Shadowsocks服务器搭建](https://hxhgts.github.io/SSServerByXray)
 
 ### 科学上网客户端
 
-[ClashByShell客户端(暂仅支持Windows)](https://hxhddns.top/ClashByShell/)  [Clash配置文件](https://hxhddns.top/Clash-Config/)
+[ClashByShell客户端(暂仅支持Windows)](https://hxhgts.github.io/ClashByShell/)  [Clash配置文件](https://hxhgts.github.io/Clash-Config/)
 
 ### 服务器相关
 
-[服务器常用数据收集整理](https://hxhddns.top/GreatDNS/)  [AWS EC2 root配置](https://hxhddns.top/AWSECSRoot/)  
+[服务器常用数据收集整理](https://hxhgts.github.io/GreatDNS/)  [AWS EC2 root配置](https://hxhgts.github.io/AWSECSRoot/)  
 
-[卸载阿里(腾讯)云监控](https://hxhddns.top/AliyunProtectUninstall/)  [Cloudflare WARP](https://hxhddns.top/Cloudflare_WARP_Connect)
+[卸载阿里(腾讯)云监控](https://hxhgts.github.io/AliyunProtectUninstall/)  [Cloudflare WARP](https://hxhgts.github.io/Cloudflare_WARP_Connect)
 
-[服务器内核参数优化](https://hxhddns.top/TCPOptimization/)
+[服务器内核参数优化](https://hxhgts.github.io/TCPOptimization/)
 
 ### 流量转发
 
-[流量转发(基于iptables)](https://hxhddns.top/NATConfigGenerator-iptables/)  [流量转发(基于firewalld)](https://hxhddns.top/NATConfigGenerator/)
+[流量转发(基于iptables)](https://hxhgts.github.io/NATConfigGenerator-iptables/)  [流量转发(基于firewalld)](https://hxhgts.github.io/NATConfigGenerator/)
 
-[流量转发(基于realm)](https://hxhddns.top/realm-portforwarder/)
+[流量转发(基于realm)](https://hxhgts.github.io/realm-portforwarder/)
 
 ### 游戏加速
 
-[Netch游戏规则](https://hxhddns.top/Netch-Rules/)
+[Netch游戏规则](https://hxhgts.github.io/Netch-Rules/)
 
 ### 常用工具
 
-[FreeDownloader](https://hxhddns.top/FreeDownloader/)  [随机文件生成器](https://github.com/HXHGTS/DumpGenerator)
+[FreeDownloader](https://hxhgts.github.io/FreeDownloader/)  [随机文件生成器](https://github.com/HXHGTS/DumpGenerator)
 
